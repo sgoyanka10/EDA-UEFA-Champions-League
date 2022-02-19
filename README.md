@@ -15,4 +15,3 @@ Exploratory data analysis of highly renowned football event - UEFA Champions Lea
   https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League_group_stage
   https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League_group_stage
 
-**Note: Still working on the final version of the notebook**
