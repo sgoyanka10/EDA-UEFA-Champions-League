@@ -13,9 +13,15 @@ This notebook aims to describe how different football leagues, clubs and players
   [2016–17 UEFA Champions League](https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League)
   
   [2015–16 UEFA Champions League](https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League)
+  
   [2014–15 UEFA Champions League](https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League)
+  
   [2018–19 UEFA Champions League group stage](https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League_group_stage)
+  
   [2017–18 UEFA Champions League group stage](https://en.wikipedia.org/wiki/2018%E2%80%9319_UEFA_Champions_League_group_stage)
+  
   [2016–17 UEFA Champions League group stage](https://en.wikipedia.org/wiki/2016%E2%80%9317_UEFA_Champions_League_group_stage)
+  
   [2015–16 UEFA Champions League group stage](https://en.wikipedia.org/wiki/2015%E2%80%9316_UEFA_Champions_League_group_stage)
+  
   [2014–15 UEFA Champions League group stage](https://en.wikipedia.org/wiki/2014%E2%80%9315_UEFA_Champions_League_group_stage)
